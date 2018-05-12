@@ -1,0 +1,39 @@
+_repo: The-Poniard-s-Hilt--Or-Karadeucq-and-Ronan.-A-Tale-of-Bagauders-and-Vagres_31782
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: De Leon, Daniel
+    alias: Leon, Daniel De
+    birthdate: 1852
+    deathdate: 1914
+    gutenberg_agent_id: '34732'
+    url: http://www.gutenberg.org/2009/agents/34732
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sue, Eugène
+    aliases:
+    - Sue, Eugene
+    - Sue, Marie Joseph
+    birthdate: 1804
+    deathdate: 1857
+    gutenberg_agent_id: '1186'
+    url: http://www.gutenberg.org/2009/agents/1186
+    wikipedia: http://en.wikipedia.org/wiki/Eugène_Sue
+description: ''
+gutenberg_issued: '2010-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31782'
+  lccn: 08015329
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- To 987 -- Fiction'
+- !lcc 'PQ'
+title: The Poniard's Hilt; Or, Karadeucq and Ronan. A Tale of Bagauders and Vagres
+url: http://www.gutenberg.org/ebooks/31782
